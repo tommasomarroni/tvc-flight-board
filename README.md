@@ -10,7 +10,7 @@ arduino --upload main.ino --port <port>
 
 ## Hardware and Software
 
-Hardware:
+**Hardware:**
 - Up to 4 MG90S servos
 - Arduino Nano v3.0
 - MPU 6050 6-DOF IMU
@@ -18,12 +18,12 @@ Hardware:
 - MicroSD card adapter
 - Other: resistors, buzzer, led, power switch
 
-This code uses:
+**This code uses:**
 - 29782 bytes of program space: 96% of Arduino Nano v3.0 program space limit of 30720 bytes;
 - 1403 byte of dynamic memory: 68% of Arduino Nano v3.0 dynamic memory limit.
 in NON-DEBUG mode.
 
-This code implements:
+**This code implements:**
 - Attitude, temperature, pressure, altitude measuring
 - Data log into MicroSD
 - IMU Error-calibration procedure
@@ -34,11 +34,11 @@ This code implements:
 - PID based attitude control
 - Automatic activation, deactivation of TVC and parachute ejection
 
-Future developments:
-- Use 9DOF IMU
-- Use better microcontroller unit: Arduino Nano 33 BLE Sense, Teensy 4.0, STM32F.
+**Future developments:**
+- Use 9DOF IMU;
+- Use a more powerful microcontroller unit: Arduino Nano 33 BLE Sense, Teensy 4.0, STM32Fx.
 
-This is a beta/basic version, strongly limited by the original Arduino Nano v3.0 memory limit.
+**This is a beta/basic version, strongly limited by the original Arduino Nano v3.0 program space limit.**
 
 ## References
 
