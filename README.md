@@ -1,4 +1,4 @@
-# Model rocket flight board for thrust vectoring (first basic version)
+# Model rocket flight board (beta)
 Simple (beta) flight board for an actively controlled (thrust vectoring) model rocket.
 
 ## Running
