@@ -1,4 +1,5 @@
 # Model rocket flight board (beta)
+[abandoned project]
 Compact (beta) flight board for an actively controlled (thrust vectoring) model rocket.
 
 ## Running
