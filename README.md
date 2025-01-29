@@ -1,5 +1,5 @@
 # Model rocket flight board (beta)
-Simple (beta) flight board for an actively controlled (thrust vectoring) model rocket.
+Compact (beta) flight board for an actively controlled (thrust vectoring) model rocket.
 
 ## Running
 
